@@ -26,8 +26,8 @@ Begin by typing npm start in your terminal. This will start the server and resul
 
 You can now create GET requests for products, categories, and tags as well as GET by id, POST, PUT, and DELETE.  
 
-Each of these are demonstrated in the walkthrough video linked [![here](https://drive.google.com/file/d/1pKhfM20bwz4NOr-i0p04QBJNFPUYmCSe/view)].
-
+Each of these are demonstrated in the walkthrough video linked [[here](https://drive.google.com/file/d/1pKhfM20bwz4NOr-i0p04QBJNFPUYmCSe/view).
+(/Assets/walkthroughScreenshot.png)
 ## Licensing:
 Licensed under [MIT license](LICENSE).
 
