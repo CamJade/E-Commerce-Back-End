@@ -73,7 +73,7 @@ router.delete('/:id', (req, res) => {
       }
     });
     if (!deleteTag) {
-      res.status(404).json({ message: 'No category was found with this tag!' });
+      res.status(404).json({ message: 'No tag was found with this id!' });
       return;
     }
     res.status(200).json(deleteTag);
